@@ -1,0 +1,12 @@
+/* General style */
+* {
+  box-sizing: border-box;
+  direction: ltr;
+}
+a {
+  text-decoration: none;
+}
+body {
+  margin: 0px;
+  font-size: 16px;
+}
